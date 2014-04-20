@@ -1,0 +1,133 @@
+/* ************************************************************ */
+/* Menu styling */
+/* ************************************************************ */
+
+/* Match font height etc to Bootstrap. */
+.ui-widget {
+	font-size: 14px;
+	line-height: 20px;
+	color: rgb(51, 51, 51);
+}
+
+/* Make sure menu is always on top, get rid of padding and border so we can do our own styling. */
+.ui-menu {
+	z-index: 2;
+	padding: 0;
+	border: 0;
+}
+
+.ui-menu .ui-corner-all {
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+}
+
+/* Remove border from anchors as well, and ensure consistent padding. */
+.ui-menu .ui-menu-item a, .ui-menu .ui-menu-item a.ui-state-active {
+	padding: 10px 15px;
+	border: none;
+}
+
+/* Set a consistent height */
+.ui-menu-item {
+	min-height: 42px;
+}
+
+/* Add the border to the items, not the menu overall. */
+.ui-menu .ui-menu-item {
+	border: 1px solid #ddd;
+	margin-bottom: -1px;
+}
+
+/* Make the first and last children have a border radius for the nice rounded corner effect. */
+.ui-menu-item:first-child {
+	-moz-border-top-right-radius: 4px;
+	-webkit-border-top-right-radius: 4px;
+	border-top-right-radius: 4px;
+
+	-moz-border-top-left-radius: 4px;
+	-webkit-border-top-left-radius: 4px;
+	border-top-left-radius: 4px;
+}
+
+.ui-menu-item:last-child {
+	margin-bottom: 0;
+
+	-moz-border-bottom-right-radius: 4px;
+	-webkit-border-bottom-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+
+	-moz-border-bottom-left-radius: 4px;
+	-webkit-border-bottom-left-radius: 4px;
+	border-bottom-left-radius: 4px;
+}
+
+/* Who knows why there was a text-shadow anyway.. get rid of it!  */
+.ui-menu-item a, .ui-menu .ui-menu-item a.ui-state-focus, .ui-menu .ui-menu-item a.ui-state-active {
+	text-decoration: none;
+	text-shadow: none;
+}
+
+/* Do our own focus styling. */
+.ui-menu .ui-menu-item a.ui-state-focus, .ui-menu .ui-menu-item a.ui-state-active {
+	background-color: lightblue;
+	background-image: none;
+	color: currentColor;
+}
+/* ************************************************************ */
+/* Plant selection list styling */
+/* ************************************************************ */
+
+.list-selection-menu-wrapper, .plant-selection-container {
+	padding: 1rem 0;
+}
+
+.plant-selection-scrollable {
+	padding-left: 0;
+	max-height: 500px;
+	overflow: scroll;
+}
+
+.plant-selection-plant:focus {
+	outline: 0;
+	background-color: lightblue;
+}
+
+.plant-selection-list input {
+	width: 100%;
+}
+
+.list-group-item {
+	position: initial;
+}
+
+.selected-plants-list .list-group-item:first-child {
+	border-top: none;
+
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+}
+
+.plant-selection-scrollable .list-group-item:first-child {
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+}
+
+/* Currently Chrome only - see http://stackoverflow.com/questions/2293910/css3-transparency-gradient for other browsers..*/
+.mask {
+	width: 100%;
+	height: 60px;
+	position: relative;
+	bottom: 60px;
+	background-image: -webkit-gradient(
+		linear, left top, left bottom, from(rgba(255, 255, 255, 0)),
+		to(rgba(255, 255, 255, 1)), color-stop(.5, rgba(255, 255, 255, 0.8))
+	);
+}
+
+.list-group-item:first-child, .list-group-item:last-child {
+	position: relative;
+	z-index: 1;
+}

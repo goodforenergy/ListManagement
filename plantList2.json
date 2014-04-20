@@ -1,0 +1,532 @@
+{
+	"plants": [
+		{
+			"name": "DHAN"
+		},
+		{
+			"name": "A"
+		},
+		{
+			"name": "A69-1"
+		},
+		{
+			"name": "ABHAYA"
+		},
+		{
+			"name": "Adday Sel"
+		},
+		{
+			"name": "ARC 10550"
+		},
+		{
+			"name": "ASD 7"
+		},
+		{
+			"name": "B"
+		},
+		{
+			"name": "BABAWEE"
+		},
+		{
+			"name": "BC 6 F 2 (WAY RAREM X ORYZICA LLANOS 5)-49-7-1-2-22-10"
+		},
+		{
+			"name": "Digang"
+		},
+		{
+			"name": "Gigante"
+		},
+		{
+			"name": "CG14"
+		},
+		{
+			"name": "Azucena"
+		},
+		{
+			"name": "Gigante/Farmer1"
+		},
+		{
+			"name": "Gigante/FKR16"
+		},
+		{
+			"name": "Gigante/FKR16"
+		},
+		{
+			"name": "Gigante/FKR16"
+		},
+		{
+			"name": "Gigante/FKR16"
+		},
+		{
+			"name": "Gigante/FKR16"
+		},
+		{
+			"name": "GH1020/Gigante"
+		},
+		{
+			"name": "GH1020/Gigante"
+		},
+		{
+			"name": "GH1020/Gigante"
+		},
+		{
+			"name": "CG14/Digang"
+		},
+		{
+			"name": "CG14/Digang"
+		},
+		{
+			"name": "CG14/Digang"
+		},
+		{
+			"name": "CG14/Digang"
+		},
+		{
+			"name": "CG14/Digang"
+		},
+		{
+			"name": "CG14/Digang"
+		},
+		{
+			"name": "CG14/Digang"
+		},
+		{
+			"name": "CG14/Digang"
+		},
+		{
+			"name": "CG14/Digang"
+		},
+		{
+			"name": "CG14/Digang"
+		},
+		{
+			"name": "Gigante/FKR19"
+		},
+		{
+			"name": "Gigante/FKR19"
+		},
+		{
+			"name": "Digang/Nerica28"
+		},
+		{
+			"name": "Digang/Nerica28"
+		},
+		{
+			"name": "Digang/Nerica28"
+		},
+		{
+			"name": "Digang/Nerica28"
+		},
+		{
+			"name": "Digang/Nerica28"
+		},
+		{
+			"name": "Digang/Nerica28"
+		},
+		{
+			"name": "Digang/Nerica28"
+		},
+		{
+			"name": "Digang/Nerica28"
+		},
+		{
+			"name": "Digang/Nerica28"
+		},
+		{
+			"name": "Digang/Nerica28"
+		},
+		{
+			"name": "Digang/Nerica28"
+		},
+		{
+			"name": "Digang/Nerica28"
+		},
+		{
+			"name": "Digang/Nerica28"
+		},
+		{
+			"name": "Digang/Nerica28"
+		},
+		{
+			"name": "Digang/Nerica28"
+		},
+		{
+			"name": "Digang/Nerica28"
+		},
+		{
+			"name": "Digang/Nerica28"
+		},
+		{
+			"name": "Digang/Nerica28"
+		},
+		{
+			"name": "Digang/Nerica28"
+		},
+		{
+			"name": "Digang/Nerica28"
+		},
+		{
+			"name": "Gigante/Digang"
+		},
+		{
+			"name": "Gigante/Digang"
+		},
+		{
+			"name": "Gigante/Digang"
+		},
+		{
+			"name": "Gigante/Digang"
+		},
+		{
+			"name": "Gigante/Digang"
+		},
+		{
+			"name": "Gigante/Digang"
+		},
+		{
+			"name": "Gigante/Digang"
+		},
+		{
+			"name": "Gigante/Digang"
+		},
+		{
+			"name": "Gigante/Digang"
+		},
+		{
+			"name": "Gigante/Digang"
+		},
+		{
+			"name": "Gigante/Digang"
+		},
+		{
+			"name": "Gigante/Digang"
+		},
+		{
+			"name": "Gigante/Digang"
+		},
+		{
+			"name": "Gigante/Digang"
+		},
+		{
+			"name": "Gigante/Digang"
+		},
+		{
+			"name": "Gigante/Digang"
+		},
+		{
+			"name": "Gigante/Digang"
+		},
+		{
+			"name": "Gigante/Digang"
+		},
+		{
+			"name": "Gigante/Digang"
+		},
+		{
+			"name": "Gigante/Digang"
+		},
+		{
+			"name": "CG14/Digang"
+		},
+		{
+			"name": "CG14/Digang"
+		},
+		{
+			"name": "CG14/Digang"
+		},
+		{
+			"name": "CG14/Digang"
+		},
+		{
+			"name": "CG14/Digang"
+		},
+		{
+			"name": "CG14/Digang"
+		},
+		{
+			"name": "CG14/Digang"
+		},
+		{
+			"name": "CG14/Digang"
+		},
+		{
+			"name": "BADKALAMKATI"
+		},
+		{
+			"name": "BM24"
+		},
+		{
+			"name": "BANG PRA"
+		},
+		{
+			"name": "CC114"
+		},
+		{
+			"name": "CHIEM CHANH"
+		},
+		{
+			"name": "CHAW GAM PRUED"
+		},
+		{
+			"name": "ChengCheong"
+		},
+		{
+			"name": "CHAING RONEAL"
+		},
+		{
+			"name": "CO 25"
+		},
+		{
+			"name": "CHINSABA"
+		},
+		{
+			"name": "Dasan"
+		},
+		{
+			"name": "Dasanbyeo"
+		},
+		{
+			"name": "DINORADO"
+		},
+		{
+			"name": "DOC PHUNG"
+		},
+		{
+			"name": "Dular"
+		},
+		{
+			"name": "WAS 122-IDSA 10-WAS 1-1 FKR 1"
+		},
+		{
+			"name": "WAS 122-IDSA 10-WAS 6-1 FKR 1"
+		},
+		{
+			"name": "WAS 122-IDSA 11-WAS 11-4-FKR 1"
+		},
+		{
+			"name": "WAS 122-IDSA 11-WAS 8-2"
+		},
+		{
+			"name": "WAS 122-IDSA 12-WAS B-FKR 1"
+		},
+		{
+			"name": "WAS 122-IDSA 13-WAS 10-FKR 1"
+		},
+		{
+			"name": "WAS 122-IDSA 13-WAS 13-3-3 FKR 1"
+		},
+		{
+			"name": "WAS 122-IDSA 14-WAS B- FKR 1"
+		},
+		{
+			"name": "WAS 122-IDSA 10-WAS-3-1-TGR 3"
+		},
+		{
+			"name": "WAS 122-IDSA 10-WAS-7-2-FKR1-TGR 8"
+		},
+		{
+			"name": "WAS 122-IDSA 11-WAS -10-2-TGR 60"
+		},
+		{
+			"name": "WAS 122-IDSA 11-WAS -B-IER-11-19"
+		},
+		{
+			"name": "WAS 122-IDSA -13-WAS 10- WAB-B-TGR 5"
+		},
+		{
+			"name": "WAS 122-IDSA -1-WAS 2-WAB 1-TGR 6"
+		},
+		{
+			"name": "WAS 122-IDSA -1-WAS -2"
+		},
+		{
+			"name": "WAS 122-IDSA -1-WAS -2-B-1-TGR 132"
+		},
+		{
+			"name": "WAS 122-IDSA -1-WAS -2-WAB2-TGR 7"
+		},
+		{
+			"name": "WAS 122-IDSA -1-WAS -4-B-1-TGR 121"
+		},
+		{
+			"name": "WAS 122-IDSA -1-WAS -6-1"
+		},
+		{
+			"name": "WAS 122-IDSA -1-WAS -B"
+		},
+		{
+			"name": "WAS 124-B-3-4-FKR 1"
+		},
+		{
+			"name": "WAS 126-B-8-1-FKR1-TGR 96"
+		},
+		{
+			"name": "WAS 127-IDSA 2-WAS 3-5-FKR 1"
+		},
+		{
+			"name": "WAS 127-IDSA 2-WAS 3-6-FKR 1"
+		},
+		{
+			"name": "WAS 127-IDSA-2-WAS-1"
+		},
+		{
+			"name": "WAS 161-B-1-1-FKR 1"
+		},
+		{
+			"name": "WAS 161-B-2-B-1"
+		},
+		{
+			"name": "WAS 161-B-2-B-2"
+		},
+		{
+			"name": "WAS 161-B2-B3"
+		},
+		{
+			"name": "WAS 161-B-2-B-4"
+		},
+		{
+			"name": "WAS 161-B-4-1-FKR 1"
+		},
+		{
+			"name": "WAS 161-B-4-B-1-TGR 51"
+		},
+		{
+			"name": "WAS 161-B-4-B-2"
+		},
+		{
+			"name": "WAS 161-B--6-3-FKR 1"
+		},
+		{
+			"name": "WAS 161-B--6-4-FKR 1"
+		},
+		{
+			"name": "WAS 161-B-6-B1"
+		},
+		{
+			"name": "WAS 161-B-6-B-4"
+		},
+		{
+			"name": "WAS 161-B-6-B-B-1-B"
+		},
+		{
+			"name": "WAS 161-B-6-WAB-B-TGR 16"
+		},
+		{
+			"name": "WAS 161-B-9-1-FKR 1"
+		},
+		{
+			"name": "WAS 161-B-9-3"
+		},
+		{
+			"name": "WAS 161-IDSA-3-WAS-B-IER-2-4"
+		},
+		{
+			"name": "WAS 163-B-5-3"
+		},
+		{
+			"name": "WAS 186-5-3-FKR 1"
+		},
+		{
+			"name": "WAS 186-B-8-B-1"
+		},
+		{
+			"name": "WAS 186-B-8-B-2"
+		},
+		{
+			"name": "WAS 189-4"
+		},
+		{
+			"name": "WAS 191-10-3-FKR 1"
+		},
+		{
+			"name": "WAS 122-IDSA-1-B-IER-18-6"
+		},
+		{
+			"name": "WAS 191-10-4-FKR 1-TGR 123"
+		},
+		{
+			"name": "WAS 191-10-WAB-B-TGR 23"
+		},
+		{
+			"name": "WAS 191-1-5-FKR 1"
+		},
+		{
+			"name": "WAS 191-1-7-TGR 90"
+		},
+		{
+			"name": "WAS 191-4-10"
+		},
+		{
+			"name": "WAS 191-8-1-FKR 1"
+		},
+		{
+			"name": "WAS 191-8-3"
+		},
+		{
+			"name": "WAS 191-9-B-2"
+		},
+		{
+			"name": "WAS 191-9-WAB-B-TGR 24"
+		},
+		{
+			"name": "WAS 192-3-WAB-B-TGR 25"
+		},
+		{
+			"name": "WAS 191-9-3- FKR-1"
+		},
+		{
+			"name": "CK 4"
+		},
+		{
+			"name": "FARO 36"
+		},
+		{
+			"name": "FARO 44"
+		},
+		{
+			"name": "FARO 57"
+		},
+		{
+			"name": "FKR 19"
+		},
+		{
+			"name": "FKR 54"
+		},
+		{
+			"name": "IR 74371-54-1-1"
+		},
+		{
+			"name": "CK73"
+		},
+		{
+			"name": "WAB7880"
+		},
+		{
+			"name": "Suakoko 8"
+		},
+		{
+			"name": "BAO THAI"
+		},
+		{
+			"name": "WAS 194-B-3-2-5"
+		},
+		{
+			"name": "WITA 9"
+		},
+		{
+			"name": "GOHANA"
+		},
+		{
+			"name": "Giza178"
+		},
+		{
+			"name": "HB46"
+		},
+		{
+			"name": "HB88"
+		},
+		{
+			"name": "HAO HOM"
+		}
+	]
+}
